@@ -245,6 +245,15 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "voice",
+    "weather",
+    "fullid",
+    "insta",
+    "leave",
+    "echo",
+    "tophoto",
+    "rank"
+   
     },
   enabled_lang = {
     "arabic_lang",
